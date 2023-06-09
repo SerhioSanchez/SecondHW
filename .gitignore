@@ -27,7 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea
-*.iml
+.idea/
+.iml
 out
 SecondHomeWork.iml
