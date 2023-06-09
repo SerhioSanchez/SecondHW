@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea/
+.idea
+*.iml
 
 ### Eclipse ###
 .apt_generated
@@ -28,8 +29,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.iml
-out
 SecondHomeWork.iml
-.idea
-.idea/
